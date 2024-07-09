@@ -22,4 +22,10 @@ Com esse site você ficará sabendo de tudo sobre essa divina celebridade! Tudo 
 
 **Descrição**:
 caçarola está explodindo em todo  Brasil!
+---
+## Como Funciona?
+![Imagem explicativa]()
 
+1. O site será atualizado a cada semana (quando tiver novas informações sobre ele)
+1.  Você pode atualizar o site com as informações quando nós não tivermos atualizado, basta fazer o cadastro.
+1. O site irá te enviar notificações a cada postagem nova. Basta permitir.
